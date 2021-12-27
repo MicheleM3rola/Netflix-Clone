@@ -2,11 +2,8 @@
 
 <img src="" title="Netflix Clone" alt="Netflix Clone" width="40%"/>
 
-The Website is a sample website built with React, It is fully responsive, and I used Context api to manage the data coming from Contentful.
-What is cool and interesting in this project is the filter wich is in the Rooms page where you can really find your perfect room based on type, number of guest,
-price,Size etc..
-Each room has a personal space with details pictures etc...
-
+The Netflix clone, works with the TMDB api, fetching data categories with Axios that I have specifiedd in the code, The wesite is fully responsive and offer
+a trailer video whenever clicked on your favourite show or movie if it is available in the database, not all of them have one.
 
 
 
